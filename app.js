@@ -1,2 +1,2 @@
-//add new featureclear -button
+//add new feature -button
 
